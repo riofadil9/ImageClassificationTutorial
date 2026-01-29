@@ -1,2 +1,2 @@
 # ImageClassificationTutorial
-download aja gpp
+menampilkan tahapan umum klasifikasi citra
